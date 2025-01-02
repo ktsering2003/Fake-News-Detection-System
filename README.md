@@ -15,3 +15,9 @@ This project aims to build a machine learning pipeline to detect fake news artic
 - Flask/FastAPI for API
 - Docker for containerization
 - Git for version control
+
+
+
+
+https://github.com/user-attachments/assets/534d5586-5038-4230-8d69-c57f71343222
+

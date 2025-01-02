@@ -1,20 +1,19 @@
 # Fake News Detection System
 
 ## Project Overview
-This project is a machine learning pipeline designed to detect fake news articles. It utilizes a subset of the WELFake dataset for training and testing and includes data preprocessing, model training, and deployment of an API for real-time predictions.
+This project is all about building a machine learning pipeline to detect fake news articles. I used a smaller subset of the WELFake dataset for training and testing. The project focuses on processing the data, training a model, and deploying an API to make real-time predictions.
 
 ## Features
-- **Data Preprocessing**: Cleaning and transforming news articles for machine learning.
-- **Fake News Classification**: Classifies news articles as fake or real using a trained model.
-- **API for Predictions**: Provides real-time predictions via a REST API.
-- **Interactive Testing**: Test API endpoints for functionality and accuracy.
+- **Data Preprocessing**: Cleaned and prepared news articles to make them ready for machine learning.
+- **Fake News Classification**: Used a trained model to classify articles as fake or real.
+- **API for Predictions**: Built a simple REST API for real-time predictions.
+- **Interactive Testing**: Tested the API to ensure it works as expected.
 
 ## Technologies
-- **Python**: Programming language for model development and deployment.
-- **Pandas, NumPy, Scikit-learn**: Libraries for data manipulation and machine learning.
-- **Flask**: Framework used to build the REST API.
-- **Git**: Version control for tracking changes and collaboration.
-- **Docker**: For containerizing the application (optional).
+- **Python**: Main programming language used throughout the project.
+- **Pandas, NumPy, Scikit-learn**: Libraries for data handling and machine learning.
+- **Flask**: Framework for building the API.
+- **Git**: To track changes and manage the codebase.
 ---
 
 

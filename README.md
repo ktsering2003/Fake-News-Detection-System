@@ -15,7 +15,6 @@ This project is a machine learning pipeline designed to detect fake news article
 - **Flask**: Framework used to build the REST API.
 - **Git**: Version control for tracking changes and collaboration.
 - **Docker**: For containerizing the application (optional).
-
 ---
 
 
